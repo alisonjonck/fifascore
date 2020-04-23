@@ -1,0 +1,17 @@
+{
+  "name": "fifascore",
+  "displayName": "fifascore",
+  "expo": {
+    "name": "fifascore",
+    "slug": "fifascore",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
